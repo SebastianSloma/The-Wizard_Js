@@ -23,3 +23,8 @@ body {
     width: 1000px;
     height: 600px;
 }
+
+.info{
+    text-align: center;
+    font-size: 30px;
+}
