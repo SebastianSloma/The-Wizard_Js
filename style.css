@@ -27,6 +27,7 @@ body {
 .info {
 	text-align: center;
 	font-size: 30px;
+    margin-top: 20px;
     color: white;
 }
 
@@ -72,9 +73,11 @@ body {
 
 .question-area .answer {
 	margin-top: 30px;
+    color: white;
 }
 .question-area .answer span {
 	font-weight: bold;
+    color: lightgreen;
 }
 
 .question-area .error {
@@ -88,22 +91,22 @@ body {
 
 @keyframes shake {
 	0% {
-		left: 290px;
+		left: 330px;
 	}
 
 	20% {
-		left: 340px;
+		left: 350px;
 	}
 	40% {
-		left: 290px;
+		left: 330px;
 	}
 	60% {
-		left: 340px;
+		left: 350px;
 	}
 	80% {
-		left: 290px;
+		left: 330px;
 	}
 	100% {
-		left: 300px;
+		left: 350px;
 	}
 }
